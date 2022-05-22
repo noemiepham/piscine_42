@@ -1,1 +1,7 @@
 ls -tUpm
+"ls:  Le répertoire courant"
+"-t : Sort by descending time modified (most recently modified first)."
+"_U :Use time when file was created for sorting or printing"
+" -p: slash sau directory"
+
+"-m: da phay"
